@@ -26,13 +26,12 @@ To run the project:
 
 If using the udacity terminal:
 
-Once your app is running (python run.py)
-open another terminal and type env|grep WORK this will give you the spaceid it will start with view*** and some characters after that
-Now open your browser window and type https://viewa7a4999b-3001.udacity-student-workspaces.com, replace the whole viewa7a4999b with your space id you got in the step 2
-Press enter and the app should now run for you
+Once the app is running (python run.py):
+a) Open another terminal and type env|grep WORK this will give you the spaceid it will start with view*** and some characters after that
+b)Now open your browser window and type https://viewa7a4999b-3001.udacity-student-workspaces.com, replace the whole viewa7a4999b with your space id. 
+c)Press enter and the app will run
 
 
 If using a Local Machine
 
-Once your app is running (python run.py)
-go to to localhost:3001 and app will run
+Once the app is running (python run.py) go to to localhost:3001 and app will run
